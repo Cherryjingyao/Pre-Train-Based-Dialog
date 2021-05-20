@@ -13,6 +13,7 @@ This is a paper list for the pre-training based dialogue models. It involve both
 - ConveRT: Efficient and Accurate Conversational Representations from Transformers, Arxiv-2019, [[paper]](https://arxiv.org/abs/1911.03688)
 - DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation, Arxiv-2019, [[paper]](https://arxiv.org/abs/1911.00536), [[code]](https://github.com/microsoft/DialoGPT)
 - PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.07931)
+- PLATO-2：Towards Building an Open-Domain Chatbot via Curriculum Learning [[paper]](https://arxiv.org/abs/2006.16779)
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation, ICML2019, [[paper]](https://arxiv.org/pdf/1905.02450), [[code]](https://github.com/microsoft/MASS)
 - Unified Language Model Pre-training for Natural Language Understanding and Generation, NIPS2019, [[paper]](https://arxiv.org/abs/1905.03197), [[code]](https://github.com/microsoft/unilm)
 - Pretraining Methods for Dialog Context Representation Learning, ACL2019, [[paper]](https://www.aclweb.org/anthology/P19-1373.pdf)
